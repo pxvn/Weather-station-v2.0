@@ -13,6 +13,7 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 */
 
+
 /*This code monitors temperature and humidity using a DHT sensor. It displays readings on an 
   LCD screen with color-coded alerts for high values. The code also connects to Arduino Cloud 
   to send data and checks Wi-Fi status periodically, updating the LCD and blinking an LED if 
